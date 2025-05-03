@@ -157,3 +157,11 @@ main {
     line-height: 150%;
     color: var(--gray-950);
 }
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+.attribution a {
+    color: hsl(228, 45%, 44%);
+  }
